@@ -1,2 +1,4 @@
-Pizza
-Not_Pizza
+green
+light
+medium
+dark
